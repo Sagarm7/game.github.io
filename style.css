@@ -4,12 +4,13 @@
 }
 
 #head{
-    margin-left:600px ;
+/*     margin-left:600px ;
     margin-top: 60px;
-    margin-bottom:10px;
-    /* margin: auto;
+    margin-bottom:10px; */
+    margin: auto;
+    display:flex;
     align-items: center;
-    justify-content: center; */
+    justify-content: center;
     font-size: 50px;
     font-family: 'Syne Mono', monospace;
     color: red;
